@@ -1,2 +1,2 @@
-# basico
+# básico
 uso básico do git
